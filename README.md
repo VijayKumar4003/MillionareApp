@@ -1,6 +1,6 @@
-# Millionare Quiz App with Room Database Library
+# Millionaire Quiz App with Room Database Library
 
-Welcome to Millonare Quiz App's open source Android app! 
+Welcome to Millionaire Quiz App's open source Android app! 
 
 This App is created by Using the Room Library Data base. A light weight database all the features and environment are listed below.
 I have created an online Tutorial Series for this repo on my YouTube Channel
