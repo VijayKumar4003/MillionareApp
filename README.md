@@ -40,10 +40,10 @@ Features
 ========
 - Educational (based on Exam).
 - It has database to store questions 
-- Infinte Timer for the entire Quiz (Will be fixed in the advanced Quiz App)
 - Random questions in exam 
 - Good and Extensible UI.
 - It's offline
+- Added some Material Design Functionality.
 - Compatibility with Android API-25 and above
 - minSdkVersion 14
 - targetSdkVersion 29 (Android Pie)
